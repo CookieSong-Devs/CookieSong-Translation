@@ -10,10 +10,10 @@
 
 </div>
 
-- Welcome to the CookieSong bot discord translation repostery. !
+- Welcome to the CookieSong bot discord translation repo. !
 
 - ## 📋 How to contribute
-- You can make a fork of t his repostey and make pull request on the dev branch.
+- You can make a fork of this repo and make pull request on the dev branch.
 
 - ## 🧱 Contributor's Wall
 - lirus_12345 ( Owner of cookiesong & English translate )

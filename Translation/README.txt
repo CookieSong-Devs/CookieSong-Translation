@@ -10,4 +10,4 @@
 | Translation-Version: 1.0.0 |
 |============================|
 
-the % in the .json is variable change in the code of the bot
+the %v in the .json is variable change in the code of the bot

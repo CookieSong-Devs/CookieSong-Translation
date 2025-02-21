@@ -5,12 +5,12 @@
   "play_track_description": "Joue la musique: %v",
   "leave_title": "<:LeaveRed:1221213954299138048>  **Déconnecté**",
   "leave_description": "CookieSong a quitté le canal vocal.",
-  "clear_title": "<:Clear_gray:1240713926681952286> **Effacer la file d'attente**",
+  "clear_title": "<:Clear_gray:1240713926681952286> **Effacement de la file d'attente**",
   "clear_description": "CookieSong a effacé la file d'attente.",
   "pause_title": "<:Pause_gray:1241062418331734026> **Pause de la lecture**",
-  "pause_description": "CookieSong a mis le lecteur en pause | Vous pouvez le reprendre avec : `/resume`",
+  "pause_description": "CookieSong a mis le lecture en pause | Vous pouvez la reprendre avec : `/resume`",
   "resume_title": "<:resume_gray:1241101980966064209>  **Reprise de la lecture**",
-  "resume_description": "CookieSong a repris le joueur.",
+  "resume_description": "CookieSong a repris la lecture.",
   "queue_title": "<:Sound:1239182206937862254> **File d'attente**",
   "queue_description_empty": "La file d'attente est vide.",
   "loop_title_none": "<:loop_gray:1251652418232516628> **Aucune boucle**",
@@ -19,8 +19,8 @@
   "loop_description_track": "%v est en boucle.",
   "loop_title_queue": "<:loop_gray:1251652418232516628> **File d'attente en boucle**",
   "loop_description_queue": "Cette file d'attente n'en finit pas !",
-  "skip_title": "<:skip_dark:1240340838543003861> **Musique passer**",
-  "skip_description": "CookieSong a passer la musique.",
+  "skip_title": "<:skip_dark:1240340838543003861> **Musique passée**",
+  "skip_description": "CookieSong a passée la musique.",
   "title_volume": "<:volume_gray:1241492607188729896> **Volume Lecteur**",
-  "title_description": "Régler le volume du lecteur sur **%v %**"
+  "title_description": "Régle le volume du lecteur sur **%v %**"
 }

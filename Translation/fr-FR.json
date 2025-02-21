@@ -8,7 +8,7 @@
   "clear_title": "<:Clear_gray:1240713926681952286> **Effacement de la file d'attente**",
   "clear_description": "CookieSong a effacé la file d'attente.",
   "pause_title": "<:Pause_gray:1241062418331734026> **Pause de la lecture**",
-  "pause_description": "CookieSong a mis le lecture en pause | Vous pouvez la reprendre avec : `/resume`",
+  "pause_description": "CookieSong a mis la lecture en pause | Vous pouvez la reprendre avec : `/resume`",
   "resume_title": "<:resume_gray:1241101980966064209>  **Reprise de la lecture**",
   "resume_description": "CookieSong a repris la lecture.",
   "queue_title": "<:Sound:1239182206937862254> **File d'attente**",

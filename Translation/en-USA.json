@@ -1,5 +1,6 @@
 {
-  "language_set": "Language has been set!",
+  "language_set_title": "<:Language:1342428737660256257> **Language set**",
+  "language_set_description": "The **English-USA** language has been defined for the bot",
   "play_playlist_title": "<:Music:1221404486648467537> **Playlist Enqueued!**",
   "play_track_title": "<:Music:1221404486648467537> **Track Enqueued**",
   "play_track_description": "Plays the music: %v",

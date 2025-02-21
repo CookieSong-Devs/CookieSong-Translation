@@ -1,5 +1,6 @@
 {
-  "language_set": " La langue **française** a été définie pour le bot",
+  "language_set_title": "<:Language:1342428737660256257> **Langue définie**",
+  "language_set_description": "La langue **française** a été définie pour le bot",
   "play_playlist_title": "<:Music:1221404486648467537> **Playlist mise en file d'attente**",
   "play_track_title": "<:Music:1221404486648467537> **Musique mise en file d'attente**",
   "play_track_description": "Joue la musique: %v",
@@ -14,7 +15,7 @@
   "queue_title": "<:Sound:1239182206937862254> **File d'attente**",
   "queue_description_empty": "La file d'attente est vide.",
   "loop_title_none": "<:loop_gray:1251652418232516628> **Aucune boucle**",
-  "loop_description_none": "Pas en boucle.",
+  "loop_description_none": "Aucune musique est en boucle",
   "loop_title_track": "<:loop_gray:1251652418232516628> **Musique en boucle**",
   "loop_description_track": "%v est en boucle.",
   "loop_title_queue": "<:loop_gray:1251652418232516628> **File d'attente en boucle**",

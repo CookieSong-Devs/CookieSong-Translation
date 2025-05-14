@@ -1,8 +1,9 @@
 {
-  "language_set": "Language has been set!",
+  "language_set_title": "<:Language:1342428737660256257> **Language set**",
+  "language_set_description": "The **English-USA** language has been defined for the bot",
   "play_playlist_title": "<:Music:1221404486648467537> **Playlist Enqueued!**",
   "play_track_title": "<:Music:1221404486648467537> **Track Enqueued**",
-  "play_track_description": "Plays the music:",
+  "play_track_description": "Plays the music: %v",
   "leave_title": "<:LeaveRed:1221213954299138048>  **Leave**",
   "leave_description": "CookieSong has left the voice channel.",
   "clear_title": "<:Clear_gray:1240713926681952286> **Clear Queue**",
@@ -16,11 +17,11 @@
   "loop_title_none": "<:loop_gray:1251652418232516628> **Loop None**",
   "loop_description_none": "Not looping.",
   "loop_title_track": "<:loop_gray:1251652418232516628> **Loop Track**",
-  "loop_description_track": "% is looping.",
+  "loop_description_track": "%v is looping.",
   "loop_title_queue": "<:loop_gray:1251652418232516628> **Loop Queue**",
   "loop_description_queue": "This queue never ends!",
   "skip_title": "<:skip_dark:1240340838543003861> **Skip Track**",
   "skip_description": "CookieSong has skipped the track.",
   "title_volume": "<:volume_gray:1241492607188729896> **Volume Player**",
-  "title_description": "Set volume player to **% %**"
+  "title_description": "Set volume player to **%v %**"
 }

@@ -1,0 +1,28 @@
+{
+    "language_set_title": "<:Language:1342428737660256257> **تم تغيير اللغة**",
+    "language_set_description": "تم تعيين اللغة العربية",
+    "play_playlist_title": "<:Music:1221404486648467537> **تمت إضافة قائمة التشغيل!**",
+    "play_track_title": "<:Music:1221404486648467537> **تمت إضافة المقطع**",
+    "play_track_description": "يتم تشغيل المقطع: %v",
+    "leave_title": "<:LeaveRed:1221213954299138048>  **الخروج**",
+    "leave_description": "غادر CookieSong القناة الصوتية.",
+    "clear_title": "<:Clear_gray:1240713926681952286> **مسح القائمة**",
+    "clear_description": "تم مسح قائمة التشغيل بواسطة CookieSong.",
+    "pause_title": "<:Pause_gray:1241062418331734026> **إيقاف مؤقت**",
+    "pause_description": "تم إيقاف المشغل مؤقتاً بواسطة CookieSong | يمكنك الاستئناف باستخدام: `/resume`",
+    "resume_title": "<:resume_gray:1241101980966064209>  **استئناف التشغيل**",
+    "resume_description": "تم استئناف المشغل بواسطة CookieSong.",
+    "queue_title": "<:Sound:1239182206937862254> **قائمة التشغيل**",
+    "queue_description_empty": "قائمة التشغيل فارغة.",
+    "loop_title_none": "<:loop_gray:1251652418232516628> **إيقاف التكرار**",
+    "loop_description_none": "لا يوجد تكرار.",
+    "loop_title_track": "<:loop_gray:1251652418232516628> **تكرار المقطع**",
+    "loop_description_track": "يتم تكرار المقطع %v.",
+    "loop_title_queue": "<:loop_gray:1251652418232516628> **تكرار القائمة**",
+    "loop_description_queue": "هذه القائمة لا تنتهي أبداً!",
+    "skip_title": "<:skip_dark:1240340838543003861> **تخطي المقطع**",
+    "skip_description": "تم تخطي المقطع بواسطة CookieSong.",
+    "title_volume": "<:volume_gray:1241492607188729896> **مستوى الصوت**",
+    "title_description": "تم تعيين مستوى الصوت إلى **%v%**"
+  }
+  

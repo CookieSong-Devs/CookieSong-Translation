@@ -17,4 +17,4 @@
 
 - ## 🧱 Contributor's Wall
 - lirus_12345 ( Owner of cookiesong & English translate )
-  
+- HazemMeqdad ( arabic translate )
